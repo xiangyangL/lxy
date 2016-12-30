@@ -5,6 +5,3 @@ git fourth
 git two five
 test__007
 stash
-stash 222
-
-ceshi
