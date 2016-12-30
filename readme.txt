@@ -4,3 +4,4 @@ ggit three
 git fourth
 git two five
 test
+stash
